@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @EINSHOWERADMIRAL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-EINSHOWERADMIRAL/EINSHOWERADMIRAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in **cricket**. I’m passionate about **cricket** and enjoy playing whenever I can.
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Natural Language Processing**.
+- 💞️ I’m looking to collaborate on **Google** projects.
+- 📫 How to reach me: **[Your Email or Contact Method]**
+- 😄 Pronouns: **He/Him**.
+- ⚡ Fun fact: **I once bowled a perfect over in a local cricket match!**
+"All warfare is based on deception. Hence, when we are able to attack, we must seem unable; when using our forces, we must appear inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near. There is no place where espionage is not used. Offer the enemy bait to lure him."
